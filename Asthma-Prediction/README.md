@@ -1,0 +1,23 @@
+# 🧬 Asthma Prediction System
+
+## 📌 Overview
+Machine Learning model to predict asthma using clinical and demographic data.
+
+## ⚙️ Models Used
+- Random Forest (Best)
+- XGBoost
+- Neural Network
+
+## 📊 Results
+- Accuracy: 97%
+- AUC: 0.98
+
+## 🔍 Explainability
+Used SHAP to interpret model predictions.
+
+## 📁 Files
+- dataset.csv
+- model.ipynb
+
+## 📸 Output
+(Add screenshots here later)
