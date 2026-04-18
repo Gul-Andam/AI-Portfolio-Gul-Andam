@@ -42,6 +42,7 @@ Python
 Transformers (BERT)
 Scikit-learn
 Pandas, NumPy
-Files
-Dataset: [Mental-Health-Twitter.csv](https://github.com/user-attachments/files/26855016/Mental-Health-Twitter.csv)
-Models: [BERT,HGNN.ipynb](https://github.com/user-attachments/files/26855020/BERT.HGNN.ipynb)
+## 🚀 Files
+
+**Dataset:** [Mental-Health-Twitter.csv](https://github.com/user-attachments/files/26855016/Mental-Health-Twitter.csv)
+**Models:** [BERT,HGNN.ipynb](https://github.com/user-attachments/files/26855020/BERT.HGNN.ipynb)
