@@ -1,64 +1,65 @@
-# AI-Portfolio-Gul-Andam
-Machine Learning &amp; NLP Portfolio | BERT | Healthcare AI | Mental Health Detection
 # 👩‍💻 Gul Andam – AI & Machine Learning Portfolio
 
-🚀 Machine Learning & NLP Researcher  
-📍 Pakistan  
-🎓 MS IT (Researcher)  
+## 🚀 About Me
+
+I am a Machine Learning and NLP enthusiast with a strong focus on building real-world AI solutions. My work includes healthcare prediction systems, mental health analysis using BERT, and research-based AI studies.
 
 ---
 
-## 🧠 About Me
-I specialize in Machine Learning and NLP with focus on:
-- Mental Health Detection
-- Healthcare AI
-- Transformer Models (BERT)
+## 🧠 Skills
+
+* Machine Learning
+* Deep Learning
+* NLP (BERT, Transformers)
+* Data Analysis
+* Python, Scikit-learn, PyTorch
 
 ---
 
 ## 📊 Featured Projects
 
-### 🧬 1. Asthma Prediction System (Published Research)
-- ✅ Accuracy: 97%
-- ✅ Models: Random Forest, XGBoost, Neural Networks
-- ✅ Explainability: SHAP
+### 🧬 Asthma Prediction (97% Accuracy)
 
-📂 [View Project](https://github.com/Gul-Andam/Asthma-Prediction-ML))
+* Random Forest & XGBoost
+* SHAP explainability
+* ROC & performance evaluation
 
----
-
-### 🧠 2. Depression Detection using BERT
-- Transformer-based NLP model
-- Sentiment + Emotion Analysis
-- Temporal behavior tracking
-
-📂 [View Project](https://github.com/Gul-Andam/Depression-Detection-using-BERT)
+👉 [View Project](https://github.com/Gul-Andam/Asthma-Prediction-ML)
 
 ---
 
-### 📚 3. Research Comparative Study
-- Analyzed 17 research papers
-- Identified gaps in multimodal AI
-- Focus on BERT, RoBERTa
+### 🧠 Depression Detection using BERT
 
-📂 [View Details](https://github.com/Gul-Andam/Comparative-study-Depression-Detection-Trends-Analysis))
+* Transformer-based NLP
+* Sentiment + emotion analysis
+* Temporal behavior tracking
 
----
-
-## 🛠️ Skills
-- Python, Scikit-learn, TensorFlow, PyTorch  
-- NLP: BERT, Transformers  
-- ML: Random Forest, XGBoost  
-- Explainable AI: SHAP  
+👉 [View Project](https://github.com/Gul-Andam/Depression-Detection-using-BERT)
 
 ---
 
-## 📄 Publications
-- Asthma Prediction using ML (97% Accuracy)
-- Sentiment-Based Mental Health Comparative Study
-- 3 Papers Under Review
+### 📊 Trends & Comparative Analysis
+
+* Research-based study
+* Model comparison (ML vs DL vs BERT)
+* Identified research gaps
+
+👉 [View Project](https://github.com/Gul-Andam/Depression-Detection-Trends-Analysis)
+
+---
+
+## 📈 Key Achievements
+
+* Developed ML model with **97% accuracy**
+* Built BERT-based NLP system
+* Published research work
 
 ---
 
 ## 📬 Contact
-📧 gullandam8@gmail.com
+
+📧 [gullandam8@gmail.com](mailto:gullandam8@gmail.com)
+🔗 GitHub: https://github.com/Gul-Andam
+
+---
+
