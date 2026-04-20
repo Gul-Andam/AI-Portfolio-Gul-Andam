@@ -1,5 +1,8 @@
 # 👩‍💻 Gul Andam – AI & Machine Learning Portfolio
 
+🚀 AI Engineer | Machine Learning | NLP (BERT)  
+💡 Building high-accuracy predictive systems for healthcare & mental health
+
 ## 🚀 About Me
 
 I am a Machine Learning and NLP enthusiast with a strong focus on building real-world AI solutions. My work includes healthcare prediction systems, mental health analysis using BERT, and research-based AI studies.
@@ -37,6 +40,8 @@ I am a Machine Learning and NLP enthusiast with a strong focus on building real-
 
 ### 🧠 Depression Detection using BERT
 
+Developed a transformer-based depression detection system using BERT, integrating sentiment and temporal features to capture behavioral patterns over time.
+
 <img width="1152" height="896" alt="Gemini_Generated_Image_2zp6gd2zp6gd2zp6" src="https://github.com/user-attachments/assets/62f94dda-5958-43b8-a9de-251065b6d1e6" />
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_56cty656cty656ct" src="https://github.com/user-attachments/assets/577380e5-8a66-46ee-b646-cde51cb9acc7" />
@@ -44,6 +49,13 @@ I am a Machine Learning and NLP enthusiast with a strong focus on building real-
 * Transformer-based NLP
 * Sentiment + emotion analysis
 * Temporal behavior tracking
+
+**Tech Stack:** 
+* Python, 
+* BERT,
+* PyTorch,
+*  Scikit-learn,
+*   SHAP
 
 👉 [View Project](https://github.com/Gul-Andam/Depression-Detection-using-BERT)
 
