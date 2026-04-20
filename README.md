@@ -41,7 +41,7 @@ I specialize in Machine Learning and NLP with focus on:
 - Identified gaps in multimodal AI
 - Focus on BERT, RoBERTa
 
-📂 [View Details](./Comparative-Study)
+📂 [View Details](https://github.com/Gul-Andam/Comparative-study-Depression-Detection-Trends-Analysis))
 
 ---
 
