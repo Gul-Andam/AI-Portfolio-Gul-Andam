@@ -40,6 +40,7 @@ I am a Machine Learning and NLP enthusiast with a strong focus on building real-
 <img width="1152" height="896" alt="Gemini_Generated_Image_2zp6gd2zp6gd2zp6" src="https://github.com/user-attachments/assets/62f94dda-5958-43b8-a9de-251065b6d1e6" />
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_56cty656cty656ct" src="https://github.com/user-attachments/assets/577380e5-8a66-46ee-b646-cde51cb9acc7" />
+
 * Transformer-based NLP
 * Sentiment + emotion analysis
 * Temporal behavior tracking
