@@ -32,7 +32,7 @@ I specialize in Machine Learning and NLP with focus on:
 - Sentiment + Emotion Analysis
 - Temporal behavior tracking
 
-📂 [View Project](./Depression-Detection-BERT)
+📂 [View Project](https://github.com/Gul-Andam/Depression-Detection-using-BERT)
 
 ---
 
