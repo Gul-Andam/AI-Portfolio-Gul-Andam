@@ -23,7 +23,7 @@ I specialize in Machine Learning and NLP with focus on:
 - ✅ Models: Random Forest, XGBoost, Neural Networks
 - ✅ Explainability: SHAP
 
-📂 [View Project]([./Asthma-Prediction](https://github.com/Gul-Andam/Asthma-Prediction-ML))
+📂 [View Project](https://github.com/Gul-Andam/Asthma-Prediction-ML))
 
 ---
 
